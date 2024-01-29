@@ -55,9 +55,9 @@
 		1AD9BAFA2B680BC20081CA95 /* Landmarks */ = {
 			isa = PBXGroup;
 			children = (
+				1AD9BAFB2B680BC20081CA95 /* LandmarksApp.swift */,
 				1AD9BB0C2B680F900081CA95 /* Model */,
 				1AD9BB0B2B680C2C0081CA95 /* Views */,
-				1AD9BAFB2B680BC20081CA95 /* LandmarksApp.swift */,
 				1AD9BAFF2B680BC40081CA95 /* Assets.xcassets */,
 				1AD9BB012B680BC40081CA95 /* Preview Content */,
 			);
